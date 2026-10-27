@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Privacy Policy for Candy Smash by Tech Arena Studio.">
+  <title>Privacy Policy - Candy Smash</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f3ff;
+      color: #24213b;
+      line-height: 1.7;
+    }
+    header {
+      background: #32156b;
+      color: white;
+      text-align: center;
+      padding: 35px 18px;
+    }
+    header h1 { margin: 0 0 8px; }
+    main {
+      max-width: 850px;
+      margin: 25px auto;
+      padding: 28px;
+      background: white;
+      border-radius: 14px;
+      box-shadow: 0 4px 20px #21104412;
+    }
+    h2 { color: #5426a5; margin-top: 28px; }
+    a { color: #5426a5; overflow-wrap: anywhere; }
+    footer { text-align: center; padding: 20px; color: #666; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>Privacy Policy</h1>
+  <div>Candy Smash</div>
+  <div>By Tech Arena Studio</div>
+</header>
+
+<main>
+  <p><strong>Effective date:</strong> October 27, 2026</p>
+
+  <p>This Privacy Policy explains how Candy Smash ("the Game"),
+  developed and published by Tech Arena Studio ("we", "us", or
+  "our"), handles information when you use the Game.</p>
+
+  <h2>1. Information and Data</h2>
+  <p>The Game may use third-party services that process information
+  needed to provide advertising, maintain service functionality,
+  prevent fraud, and measure ad performance. The information
+  processed depends on the services enabled in the released version
+  of the Game and your device settings.</p>
+
+  <h2>2. Advertising Services</h2>
+  <p>The Game uses Google AdMob to display advertisements. Google
+  and its advertising partners may process information such as
+  advertising identifiers, IP address, device information, app
+  interactions, and diagnostic or advertising data, as applicable
+  to the ad configuration and your consent choices.</p>
+  <p>For more information, see
+    <a href="https://policies.google.com/privacy" target="_blank"
+       rel="noopener noreferrer">Google Privacy Policy</a>
+    and
+    <a href="https://policies.google.com/technologies/ads"
+       target="_blank" rel="noopener noreferrer">
+       Google's advertising information</a>.
+  </p>
+
+  <h2>3. Consent and Advertising Choices</h2>
+  <p>Where required, the Game may provide consent options for
+  advertising and related data processing. Available choices may
+  depend on your location, device, and applicable requirements.
+  You may also be able to manage advertising settings through your
+  device settings.</p>
+
+  <h2>4. How Information Is Used</h2>
+  <p>Information processed by the Game or its third-party services
+  may be used to provide and support the Game, display and measure
+  advertisements, prevent abuse or fraud, and diagnose technical
+  problems, according to the services and settings in use.</p>
+
+  <h2>5. Data Sharing</h2>
+  <p>Information may be processed by service providers, including
+  Google AdMob, for the purposes described in this policy.
+  Their handling of information is governed by their own policies
+  and the applicable configuration and consent choices.</p>
+
+  <h2>6. Data Retention and Security</h2>
+  <p>Retention and security practices depend on the information
+  involved and the services processing it. We encourage users to
+  review the privacy information of the third-party services used
+  by the Game.</p>
+
+  <h2>7. Children's Privacy</h2>
+  <p>The Game's intended audience and advertising configuration
+  should follow applicable age-related requirements. If you are a
+  parent or guardian with a concern about a child's information,
+  please contact us using the details below.</p>
+
+  <h2>8. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy when the Game, its services,
+  or applicable requirements change. The updated version will be
+  published on this page with a revised effective date.</p>
+
+  <h2>9. Contact Us</h2>
+  <p>For privacy questions or requests, contact:</p>
+  <p><strong>Developer:</strong> Tech Arena Studio</p>
+  
+<p><strong>Email:</strong> techarenastudio@gmail.com</p>
+
+
+</main>
+<footer>
+  &copy; 2026 Tech Arena Studio. All rights reserved.
+</footer>
+</body>
+</html>
